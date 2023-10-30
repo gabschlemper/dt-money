@@ -1,13 +1,13 @@
 import { useContext } from "react";
-import { Header } from "../../Components/Header";
-import { Summary } from "../../Components/Summary";
+import { Header } from "../../components/Header";
+import { Summary } from "../../components/Summary";
 import { SearchForm } from "./components/SearchForm";
 import {
   PriceHighlight,
   TransactionsContainer,
   TransactionsTable,
 } from "./styles";
-import { TransactionsContext } from "../../../contexts/TransactionsContext";
+import { TransactionsContext } from "../../contexts/TransactionsContext";
 import { dateFormatter, priceFormatter } from "../../utils/formatter";
 
 export function Transactions() {

@@ -27,7 +27,7 @@
     "**/*.tsx",
     "**/**/*.ts",
     "**/**/*.tsx",
-    "src/Components/Header"
+    "src/components/Header"
   ],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
