@@ -17,12 +17,28 @@
       "createdAt": "2023-10-30T17:36:52.266Z"
     },
     {
-      "id": 2,
+      "id": 3,
       "description": "Ignite",
       "type": "outcome",
       "category": "Educação",
       "price": 1980,
       "createdAt": "2023-09-30T17:36:52.266Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "category": "Venda",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2023-10-30T22:53:35.995Z",
+      "id": 4
+    },
+    {
+      "description": "Sushi",
+      "category": "Alimentação",
+      "price": 100,
+      "type": "outcome",
+      "createdAt": "2023-10-30T23:06:07.481Z",
+      "id": 5
     }
   ]
 }
